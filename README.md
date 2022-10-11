@@ -16,4 +16,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nhienchau&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nhienchau&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)

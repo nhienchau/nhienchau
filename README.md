@@ -15,5 +15,8 @@
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+![laptop-svgrepo-com](https://user-images.githubusercontent.com/108797740/195241821-fb10e7f2-b82e-425d-bcc9-c5d44fce9948.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nhienchau&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)

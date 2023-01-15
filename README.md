@@ -1,5 +1,7 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7298B&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
  <p align="left">
+ 
+:wave: :wave: :wave: 
+  <p align="left">
 :star2: Nhien Chau and her journey into data world :star2:    
  <img align="right" alt="Gif" width="350px" style="padding-right:150px;" src="https://user-images.githubusercontent.com/108797740/195327063-8a258df6-9427-496b-a977-6ffa263d9bcf.gif"/>
  <p align="left"> :information_desk_person: I am a Chemical Engineering student before switching to Data Analytics 

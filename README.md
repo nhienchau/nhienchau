@@ -15,7 +15,6 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ## :fire: GitHub Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nhienchau&theme=radical&hide_border=true)](https://git.io/streak-stats)
   <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhienchau&layout=compact&theme=vision-friendly-dark) <br>
 ---
   ![](https://komarev.com/ghpvc/?username=nhiencahu&color=ff69b4)

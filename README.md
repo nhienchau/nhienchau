@@ -4,7 +4,7 @@
   <p align="left">
 :star2: Nhien Chau and her journey into data world :star2:    
  <img align="right" alt="Gif" width="350px" style="padding-right:150px;" src="https://user-images.githubusercontent.com/108797740/195327063-8a258df6-9427-496b-a977-6ffa263d9bcf.gif"/>
- <p align="left"> :information_desk_person: I am a Engineering student before switching to Data Analytics 
+ <p align="left"> :information_desk_person: Currently I am a Business Intelligence Analyst
  <p align="left"> :runner: Currently I work as a Business Intelligence Developer 
  <p align="left"> :computer: 2024 Goal: Achieve more knowledge of Data Field!
   
